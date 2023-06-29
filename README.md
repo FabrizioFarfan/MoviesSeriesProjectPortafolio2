@@ -1,6 +1,10 @@
-![GitHub Cards Preview]()
+# Movies ,Series and Actors!
+![1](https://github.com/FabrizioFarfan/MoviesSeriesProjectPortafolio2/assets/112548251/3d6d1abd-584a-485e-ab0d-8514bc980e3f)
+![2](https://github.com/FabrizioFarfan/MoviesSeriesProjectPortafolio2/assets/112548251/ea877f0b-5d82-415e-9446-db46c92978bc)
+![3](https://github.com/FabrizioFarfan/MoviesSeriesProjectPortafolio2/assets/112548251/31e3e14e-6999-4879-befa-b159746f1d96)
 
-[![build]()]()
+![4](https://github.com/FabrizioFarfan/MoviesSeriesProjectPortafolio2/assets/112548251/bad8b6c1-492c-46b5-a218-f6de88f1f9e2)
+![5](https://github.com/FabrizioFarfan/MoviesSeriesProjectPortafolio2/assets/112548251/20edf0b1-a0a7-438b-b87f-fb6565d6ea26)
 
 # MoviesSeriesApp
 
