@@ -1,4 +1,4 @@
-package com.example.moviesseriesproject.ui.app
+package com.example.moviesseriesproject.ui.di.app
 
 import android.app.Application
 import com.example.moviesseriesproject.BuildConfig
