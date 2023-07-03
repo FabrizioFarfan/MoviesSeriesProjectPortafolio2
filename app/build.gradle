@@ -84,18 +84,25 @@ dependencies {
 
 
     //testing
+    androidTestImplementation "com.google.truth:truth:1.1.4"
+    androidTestImplementation "com.google.truth.extensions:truth-java8-extension:1.1.4"
+    androidTestImplementation 'androidx.arch.core:core-testing:2.2.0' // For testing room
+    androidTestImplementation 'org.jetbrains.kotlinx:kotlinx-coroutines-test:1.2.1' // For testing coroutines
+    androidTestImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
+    testImplementation 'androidx.arch.core:core-testing:2.2.0' // For testing room
+    testImplementation 'org.jetbrains.kotlinx:kotlinx-coroutines-test:1.2.1' // For testing coroutines
+    testImplementation 'junit:junit:4.13.2'
+    testImplementation 'androidx.test.ext:junit:1.1.5'
     testImplementation "com.google.truth:truth:1.1.4"
-    testImplementation "com.google.truth-java-java8-extensions:truth:1.1.4"
-    testImplementation "org.mockito:mockito-core:2.25.0"
-    implementation 'androidx.arch.core:core-testing:2.2.0' // For testing room
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-test:1.2.1' // For testing coroutines
+    testImplementation "org.robolectric:robolectric:4.4" // Provides a simulated Android environment for AndroidX testing
 
 
     implementation 'androidx.core:core-ktx:1.10.1'
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.google.android.material:material:1.9.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
-    testImplementation 'junit:junit:4.13.2'
-    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+
 }
